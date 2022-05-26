@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://ribbity-org.github.io/ribbity-sandbox/index.html</loc>
+         <lastmod>2022-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ribbity-org.github.io/ribbity-sandbox/1-this-is-a-first-page..html</loc>
+         <lastmod>2022-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ribbity-org.github.io/ribbity-sandbox/examples.html</loc>
+         <lastmod>2022-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ribbity-org.github.io/ribbity-sandbox/l-bug.html</loc>
+         <lastmod>2022-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ribbity-org.github.io/ribbity-sandbox/l-good%20first%20issue.html</loc>
+         <lastmod>2022-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ribbity-org.github.io/ribbity-sandbox/labels.html</loc>
+         <lastmod>2022-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
