@@ -26,6 +26,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ribbity-org.github.io/ribbity-sandbox/l-documentation.html</loc>
+         <lastmod>2022-05-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ribbity-org.github.io/ribbity-sandbox/l-good%20first%20issue.html</loc>
          <lastmod>2022-05-26</lastmod>
          <changefreq>daily</changefreq>
