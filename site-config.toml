@@ -8,3 +8,5 @@ add_pages = [ "index.md", "examples.md", "labels.md" ]
 github_username = 'ctb'
 
 issues_dump = 'ribbity-sandbox.dmp'
+
+issue_title_prefix = 'Page: '
