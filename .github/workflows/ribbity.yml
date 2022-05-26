@@ -17,7 +17,7 @@ jobs:
       - name: Install dependencies
         run: |
            python3 -m pip install --upgrade pip     # install pip
-           pip install git+https://github.com/ribbity-org/ribbity/archive/main.zip # install latest 'main' branch
+           pip install https://github.com/ribbity-org/ribbity/archive/refs/heads/main.zip # install latest 'main' branch
       - name: Build docs/ with ribbity
         run: ribbity do
       - name: Build site/ with mkdocs

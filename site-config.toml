@@ -1,0 +1,10 @@
+title = "ribbity-sandbox"
+site_name = "ribbity sandbox"
+site_url = "https://ribbity-org.github.io/ribbity-sandbox/"
+github_repo = "ribbity-org/ribbity-sandbox"
+
+add_pages = [ "index.md", "examples.md", "labels.md" ]
+
+github_username = 'ctb'
+
+issues_dump = 'ribbity-sandbox.dmp'
