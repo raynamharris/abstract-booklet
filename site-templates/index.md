@@ -3,7 +3,7 @@
 This is the [ribbity](https://github.com/ctb/ribbity) sandbox site!
 
 This site is automatically generated from the [ribbity-sandbox issue
-tracker] on GitHub.
+tracker](https://github.com/ribbity-org/ribbity-sandbox/issues) on GitHub.
 
 To give it a try -
 
