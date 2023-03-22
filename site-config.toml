@@ -1,12 +1,12 @@
-title = "ribbity-sandbox"
-site_name = "ribbity sandbox"
+title = "abstract-booklet"
+site_name = "abstract booklet"
 site_url = "https://ribbity-org.github.io/ribbity-sandbox/"
-github_repo = "ribbity-org/ribbity-sandbox"
+github_repo = "https://www.raynamharris.com/abstract-booklet"
 
 add_pages = [ "index.md", "examples.md", "labels.md" ]
 
-github_username = 'ctb'
+github_username = 'raynamharris'
 
-issues_dump = 'ribbity-sandbox.dmp'
+issues_dump = 'abstract-booklet.dmp'
 
-issue_title_prefix = 'Page: '
+issue_title_prefix = 'Abstact: '
