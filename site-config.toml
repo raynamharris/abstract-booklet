@@ -1,7 +1,7 @@
 title = "abstract-booklet"
 site_name = "abstract booklet"
-site_url = "https://ribbity-org.github.io/ribbity-sandbox/"
-github_repo = "https://www.raynamharris.com/abstract-booklet"
+site_url = "https://www.raynamharris.com/abstract-booklet"
+github_repo = "https://github.com/raynamharris/abstract-booklet/"
 
 add_pages = [ "index.md", "examples.md", "labels.md" ]
 
