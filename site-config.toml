@@ -10,3 +10,5 @@ github_username = 'raynamharris'
 issues_dump = 'abstract-booklet.dmp'
 
 issue_title_prefix = 'Abstact: '
+
+export RIBBITY_GH_TOKEN=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
